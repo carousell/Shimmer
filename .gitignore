@@ -4,10 +4,12 @@
 *.perspective
 *.perspectivev3
 
+
 *.mode1v3
 *.mode2v3
 
 *.xcodeproj/xcuserdata/*.xcuserdatad
+*.xcscheme
 
 *.xccheckout
 *.xcuserdatad
@@ -15,3 +17,4 @@
 build/
 
 Pods
+.swiftpm/
